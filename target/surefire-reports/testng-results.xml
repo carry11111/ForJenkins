@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+      <class name="tests.Test2">
+        <test-method status="PASS" signature="tes7()[pri:0, instance:tests.Test2@b62fe6d]" name="tes7" duration-ms="5" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes7 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:tests.Test2@b62fe6d]" name="test5" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:tests.Test2@b62fe6d]" name="test6" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:tests.Test2@b62fe6d]" name="test8" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- tests.Test2 -->
+      <class name="tests.Test1">
+        <test-method status="PASS" signature="tes3()[pri:0, instance:tests.Test1@13acb0d1]" name="tes3" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes3 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tests.Test1@13acb0d1]" name="test2" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.Test1@13acb0d1]" name="test1" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:tests.Test1@13acb0d1]" name="test4" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- tests.Test1 -->
+      <class name="tests.Test3">
+        <test-method status="PASS" signature="tes11()[pri:0, instance:tests.Test3@3e3047e6]" name="tes11" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes11 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:tests.Test3@3e3047e6]" name="test12" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:tests.Test3@3e3047e6]" name="test10" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test9()[pri:0, instance:tests.Test3@3e3047e6]" name="test9" duration-ms="0" started-at="2022-08-29T21:21:39Z" finished-at="2022-08-29T21:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+      </class> <!-- tests.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
